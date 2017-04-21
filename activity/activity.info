@@ -1,0 +1,8 @@
+[Activity]
+name = JAMEdit
+activity_version = 1
+bundle_id = org.ceibaljam.jamedit
+exec = sugar-activity activity.JAMEdit -s
+icon = activity-jamedit
+mime_types = text/plain;text/x-po;text/x-pot;text/x-pox;text/x-gettext-translation;text/x-gettext-translation-template;text/x-bibtex;text/x-objcsrc;text/x-boo;text/x-makefile;text/x-literate-haskell;text/x-texinfo;text/x-shellscript;application/x-shellscript;text/x-sh;text/x-gtkrc;text/x-rpm-spec;text/x-asp;application/x-asp;application/x-asap;text/x-tex;text/x-verilog-src;text/x-vbnet;text/x-vb;application/x-gnome-app-info;application/x-desktop;text/x-scheme;text/x-R;application/docbook+xml;text/x-c;text/x-csrc;image/x-xpixmap;application/x-ruby;text/x-ruby;text/vnd.graphviz;text/x-pascal;text/css;text/x-fortran;text/x-forth;application/sparql-query;text/x-prolog;text/x-c++;text/x-cpp;text/x-c++src;text/x-idl;text/html;text/x-chdr;text/x-c++hdr;text/x-ada;text/x-adasrc;application/javascript;application/x-javascript;text/x-javascript;text/javascript;text/x-js;text/x-java;text/x-msil;text/x-perl;application/x-perl;text/x-csharpsrc;text/x-csharp;text/x-yacc;text/x-bison;text/x-erlang;text/x-vhdl;text/x-haskell;text/x-dtd;text/x-dsrc;text/x-eiffel;text/x-dpatch;application/x-awk;text/x-fsharp;text/x-changelog;application/xml;text/xml;application/xslt+xml;text/x-sql;text/x-nemerle;text/x-ocl;text/x-gap;text/x-ini-file;application/x-ini-file;text/x-libtool;text/x-octave;text/x-matlab;text/x-vala;text/x-pkg-config;text/x-diff;text/x-patch;application/x-m4;text/x-ocaml;text/x-php;application/x-php;text/x-php-source;application/x-php-source;text/x-python;application/x-python;text/x-tcl;application/x-tcl;text/x-lua
+license = GPLv3+

@@ -1,0 +1,118 @@
+# JAMEdit Translations.
+# Copyright (C) 2011 Daniel Francis, Agustin Zubiaga
+# This file is distributed under the same license as the JAMEdit package.
+# Daniel Francis <santiago.danielfrancis@gmail.com>; Agustin Zubiaga <aguzubiaga97@gmail.com>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-09 20:08-0200\n"
+"PO-Revision-Date: 2011-12-05 10:03-0200\n"
+"Last-Translator: Daniel Francis <santiago.danielfrancis@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity.py:84
+msgid "Open object from journal"
+msgstr "Abrir objeto del diario"
+
+#: activity.py:95
+msgid "Open File"
+msgstr "Abrir Archivo"
+
+#: activity.py:102
+msgid "Save this file"
+msgstr "Guardar este archivo"
+
+#: activity.py:111
+msgid "Save on the file system."
+msgstr "Guardar en el sistema de archivos"
+
+#: activity.py:118
+msgid "New file"
+msgstr "Nuevo archivo"
+
+#: activity.py:131
+msgid "Edit"
+msgstr "Editar"
+
+#: activity.py:136
+msgid "Cut"
+msgstr "Cortar"
+
+#: activity.py:146
+msgid "PEP 8 Check"
+msgstr "Verificar PEP 8"
+
+#: activity.py:157
+msgid "Insert date and time"
+msgstr "Insertar fecha y hora"
+
+#: activity.py:195
+msgid "Previous"
+msgstr "Anterior"
+
+#: activity.py:201
+msgid "Next"
+msgstr "Siguiente"
+
+#: activity.py:211
+msgid "Show line numbers"
+msgstr "Mostrar números de línea"
+
+#: activity.py:319
+msgid "New"
+msgstr "Nuevo"
+
+#: activity.py:358
+msgid "Save changes..."
+msgstr "Guardar cambios..."
+
+#: activity.py:361
+msgid "Do you want to save changes?"
+msgstr "¿Deseas guardar los cambios?"
+
+#: activity.py:364
+msgid ""
+"Do you want to save changes\n"
+"in the file system?"
+msgstr ""
+"¿Deseas guardar los cambios\n"
+"en el sistema de archivos?"
+
+#: editor.py:134
+msgid "Plain text"
+msgstr "Texto simple"
+
+#: file_choosers.py:49
+msgid "Open..."
+msgstr "Abrir..."
+
+#: file_choosers.py:57 file_choosers.py:114
+msgid "All files"
+msgstr "Todos los archivos"
+
+#: file_choosers.py:62 file_choosers.py:119
+msgid "All text files"
+msgstr "Todos los archivos de texto"
+
+#: file_choosers.py:75
+msgid "Open from Journal"
+msgstr "Abrir del diario"
+
+#: file_choosers.py:94
+msgid "This file name already exists"
+msgstr "Este nombre de archivo ya existe"
+
+#: file_choosers.py:95
+msgid "Overwrite the file?"
+msgstr "¿Sobrescribir el archivo?"
+
+#: file_choosers.py:104
+msgid "Save..."
+msgstr "Guardar..."
